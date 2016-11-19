@@ -1,0 +1,6 @@
+c:\users\aban20\documents\visual studio 2015\Projects\CalculateSquareRoot\CalculateSquareRoot\bin\Debug\CalculateSquareRoot.exe.config
+c:\users\aban20\documents\visual studio 2015\Projects\CalculateSquareRoot\CalculateSquareRoot\bin\Debug\CalculateSquareRoot.exe
+c:\users\aban20\documents\visual studio 2015\Projects\CalculateSquareRoot\CalculateSquareRoot\bin\Debug\CalculateSquareRoot.pdb
+c:\users\aban20\documents\visual studio 2015\Projects\CalculateSquareRoot\CalculateSquareRoot\obj\Debug\CalculateSquareRoot.csprojResolveAssemblyReference.cache
+c:\users\aban20\documents\visual studio 2015\Projects\CalculateSquareRoot\CalculateSquareRoot\obj\Debug\CalculateSquareRoot.exe
+c:\users\aban20\documents\visual studio 2015\Projects\CalculateSquareRoot\CalculateSquareRoot\obj\Debug\CalculateSquareRoot.pdb
